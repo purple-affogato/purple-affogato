@@ -4,8 +4,6 @@
 ***
 ![KiaMei](https://media.discordapp.net/attachments/845104228191567902/1047790585936871526/kiamei3.png)
 
-^ hopefully this works :')
-
 <!--
 **purple-affogato/purple-affogato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
