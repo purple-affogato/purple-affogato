@@ -1,4 +1,11 @@
-### Hi there 👋
+# crying and spitting rn 😖
+
+### I'm also known as TheSlacker btw :>
+***
+Spotify Top Songs of 2022
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1F0sijgNaJdgit?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+^ hopefully this works :')
 
 <!--
 **purple-affogato/purple-affogato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
