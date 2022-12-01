@@ -2,8 +2,7 @@
 
 ### I'm also known as TheSlacker btw :>
 ***
-Spotify Top Songs of 2022
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1F0sijgNaJdgit?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+![KiaMei](https://media.discordapp.net/attachments/845104228191567902/1047790585936871526/kiamei3.png)
 
 ^ hopefully this works :')
 
