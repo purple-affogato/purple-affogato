@@ -1,6 +1,6 @@
 # crying and spitting rn 😖
 
-### I'm also known as TheSlacker btw :>
+### I like Python and Java :D
 
 <!--
 **purple-affogato/purple-affogato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
