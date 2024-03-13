@@ -1,6 +1,6 @@
 # crying and spitting rn 😖
 
-### I like Python and Java :D
+### Currently trying to think of a good bio
 
 <!--
 **purple-affogato/purple-affogato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
