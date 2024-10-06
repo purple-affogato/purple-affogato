@@ -1,6 +1,6 @@
-# crying and spitting rn 😖
+# Ivy Zhuang
 
-### Currently trying to think of a good bio
+### SCU Computer Science and Engineering '28
 
 <!--
 **purple-affogato/purple-affogato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
