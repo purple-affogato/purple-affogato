@@ -2,7 +2,7 @@
 
 ### SCU Computer Science and Engineering '28
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=purple-affogato&theme=dracula&hide_rank=true&disable_animations=true&hide=stars,issues&custom_title=My%20Stats&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=purple-affogato&theme=dracula&hide_rank=true&disable_animations=true&hide=stars,issues&custom_title=My%20Stats&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 Currently self-learning embedded and communication protocols.
 <!--
