@@ -4,7 +4,16 @@
 
 <!--[![GitHub stats](https://github-readme-stats.vercel.app/api?username=purple-affogato&theme=dracula&hide_rank=true&disable_animations=true&hide=stars,issues&custom_title=My%20Stats&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)-->
 
-Currently self-learning embedded and communication protocols.
+Main stuff I know:
+- languages: python, golang, c/c++, java, html/css/js
+- web frameworks: flask, react, svelte, vue.js
+- tools/cloud/databases: git (obv why i would even be here), aws, firebase, mysql
+- hardware-related: verilog & Quartus Prime (eventually i'll upload my coursework w/ FPGAs), PSoC 6 development (doing some mini projects w/ this right now!)
+- misc.: web scraping (beautiful soup, scrapy), data (numpy, matplotlib, pandas)
+
+topics i'm interested in: embedded software, web dev, data science
+
+Currently self-learning embedded C/C++, RTOS, and communication protocols.
 <!--
 **purple-affogato/purple-affogato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
